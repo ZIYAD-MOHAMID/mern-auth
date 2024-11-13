@@ -3,3 +3,8 @@ devDependencies = {
     npm i -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p
 }
+split terminal + {
+    git init
+    git add .
+    git commit -m 'install react js and tailwind css and create the first templete'
+}
